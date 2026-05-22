@@ -1,52 +1,206 @@
 # NGO Operations Funding Impact Dashboard
 
-## Overview
-This project is an interactive Tableau dashboard designed to monitor NGO operations, donor funding, program impact, and operational performance indicators.
-
-The dashboard enables stakeholders to:
-- Track donor contributions
-- Monitor funding utilization
-- Measure program outcomes
-- Analyze operational KPIs
-- Support data-driven humanitarian decisions
+Interactive Tableau dashboard for monitoring NGO funding, donor contributions, operational performance, and humanitarian program impact.
 
 ---
+
+# Project Overview
+
+The NGO Operations Funding Impact Dashboard is a business intelligence and data visualization project developed using Tableau Public and Microsoft Excel.
+
+This dashboard helps NGOs, humanitarian organizations, donors, and stakeholders monitor and evaluate:
+
+- Funding performance
+- Donor contribution trends
+- Budget utilization
+- Program implementation impact
+- Operational efficiency
+- Beneficiary outreach
+
+The project demonstrates practical data analytics, dashboard development, and visualization techniques using real-world NGO operational scenarios.
+
+---
+
+# Business Problem
+
+Humanitarian organizations and NGOs often face challenges in:
+
+- Tracking donor funding
+- Monitoring operational efficiency
+- Measuring program impact
+- Evaluating beneficiary outreach
+- Managing budget utilization
+- Consolidating operational data from multiple sources
+
+This dashboard provides a centralized analytics solution to support data-driven decision-making and transparent reporting.
+
+---
+
+# Project Objectives
+
+The dashboard was designed to:
+
+- Monitor total funding received
+- Analyze donor contribution performance
+- Track funding utilization
+- Measure program outcomes
+- Monitor operational activities
+- Improve reporting transparency
+- Support strategic humanitarian planning
+
+---
+
+# Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Tableau Public | Dashboard development and visualization |
+| Microsoft Excel | Data preparation and storage |
+| GitHub | Project hosting and portfolio management |
+
+---
+
+# Dataset Information
+
+The project dataset contains NGO operational, donor funding, and program impact data.
 
 ## Dataset Sheets
-The Excel dataset contains:
 
-1. Dashboard_Summary
-2. Funding_Donor_Tracking
-3. Operations_Monitoring
-4. Program_Impact
+| Sheet Name | Description |
+|---|---|
+| Dashboard_Summary | High-level KPI metrics |
+| Funding_Donor_Tracking | Donor funding transactions |
+| Operations_Monitoring | Operational monitoring metrics |
+| Program_Impact | Beneficiary and impact metrics |
+| README | Dataset documentation |
 
 ---
 
-## Key Features
+# Data Model Structure
+
+The dataset was cleaned and structured using relational modeling principles.
+
+## Relationships Used
+
+| Table Relationship | Key |
+|---|---|
+| Funding_Donor_Tracking ↔ Program_Impact | Program_ID |
+| Program_Impact ↔ Operations_Monitoring | Quarter |
+
+The `Dashboard_Summary` sheet was intentionally kept standalone for KPI visualization.
+
+---
+
+# Dashboard Features
+
+## Funding Analytics
+- Total funding KPI
 - Funding trend analysis
-- Donor performance tracking
-- Beneficiary impact measurement
-- Operational efficiency monitoring
-- Interactive Tableau visualizations
+- Grant amount tracking
+- Remaining budget monitoring
+- Funding utilization analysis
+
+## Donor Analysis
+- Top donor contributions
+- Funding source analysis
+- Donor reporting status
+
+## Program Impact Monitoring
+- Beneficiaries reached
+- Female beneficiaries
+- Male beneficiaries
+- Children supported
+- Program performance tracking
+
+## Operations Monitoring
+- Field visits tracking
+- Monitoring visits completed
+- Data quality score
+- Operational risk level
+- Staff and volunteer monitoring
 
 ---
 
-## Tools Used
-- Tableau Public
-- Microsoft Excel
-- GitHub
+# Key Performance Indicators (KPIs)
 
----
+The dashboard includes the following KPIs:
 
-## Dashboard KPIs
 - Total Funding Received
-- Funding Utilization Rate
-- Number of Beneficiaries
-- Active Programs
-- Operational Efficiency Score
-- Donor Retention Rate
+- Funding Used
+- Remaining Budget
+- Funding Utilization Percentage
+- Beneficiaries Reached
+- Data Quality Score
+- Monitoring Visits Completed
+- Staff Count
+- Volunteer Count
 
 ---
 
-## Author
-Niyomwungere Clovis
+# Dashboard Visualizations
+
+The dashboard contains:
+
+- KPI cards
+- Horizontal bar charts
+- Funding trend line charts
+- Operational monitoring visuals
+- Comparative program analysis
+- Interactive filters
+
+---
+
+# Tableau Dashboard Workflow
+
+## Step 1 — Data Preparation
+- Imported Excel dataset into Tableau Public
+- Cleaned relationships
+- Added relational keys:
+  - Program_ID
+  - Quarter
+
+## Step 2 — Data Modeling
+- Connected operational tables
+- Structured relational model
+- Validated field consistency
+
+## Step 3 — Dashboard Development
+Created:
+- KPI sheets
+- Donor analysis charts
+- Funding trend charts
+- Program impact visuals
+- Operations monitoring charts
+
+## Step 4 — Dashboard Publishing
+- Published dashboard to Tableau Public
+- Integrated GitHub project documentation
+
+---
+
+# Live Tableau Dashboard
+
+## Tableau Public Link
+https://public.tableau.com/
+
+*(Replace this link with your actual Tableau Public dashboard URL after publishing.)*
+
+---
+
+# GitHub Repository
+
+## Repository Link
+https://github.com/Clo411/ngo-operations-funding-impact-dashboard
+
+---
+
+# Repository Structure
+
+```bash
+ngo-operations-funding-impact-dashboard/
+│
+├── NGO_operations_funding_impact_dataset.xlsx
+├── NGO_operations_funding_impact_dataset_FIXED.xlsx
+├── Tableau Workbook
+├── Dashboard Screenshots
+└── README.md
