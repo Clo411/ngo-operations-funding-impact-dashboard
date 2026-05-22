@@ -181,9 +181,8 @@ Created:
 # Live Tableau Dashboard
 
 ## Tableau Public Link
-https://public.tableau.com/
+https://public.tableau.com/authoring/NGOOperationsFundingImpactDashboard/Funding_Donor_Tracking/Funding%20Trend#1
 
-*(Replace this link with your actual Tableau Public dashboard URL after publishing.)*
 
 ---
 
