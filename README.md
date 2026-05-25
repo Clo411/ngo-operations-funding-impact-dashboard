@@ -63,7 +63,7 @@ The dashboard was designed to:
 
 # Dataset Information
 
-The project dataset contains NGO operational, donor funding, and program impact data.
+The dataset contains NGO operational, donor funding, and program impact data designed for analytics and dashboard development.
 
 ## Dataset Sheets
 
@@ -73,7 +73,6 @@ The project dataset contains NGO operational, donor funding, and program impact 
 | Funding_Donor_Tracking | Donor funding transactions |
 | Operations_Monitoring | Operational monitoring metrics |
 | Program_Impact | Beneficiary and impact metrics |
-| README | Dataset documentation |
 
 ---
 
@@ -108,16 +107,15 @@ The `Dashboard_Summary` sheet was intentionally kept standalone for KPI visualiz
 
 ## Program Impact Monitoring
 - Beneficiaries reached
-- Female beneficiaries
-- Male beneficiaries
+- Female and male beneficiary tracking
 - Children supported
-- Program performance tracking
+- Program performance analysis
 
 ## Operations Monitoring
-- Field visits tracking
+- Field visit tracking
 - Monitoring visits completed
-- Data quality score
-- Operational risk level
+- Data quality monitoring
+- Operational performance indicators
 - Staff and volunteer monitoring
 
 ---
@@ -143,11 +141,12 @@ The dashboard includes:
 The dashboard contains:
 
 - KPI cards
-- Bar charts
+- Donor funding bar charts
 - Funding trend line charts
-- Operational monitoring visuals
-- Comparative program analysis
-- Interactive filters
+- Program impact visuals
+- Operational monitoring charts
+- Comparative analysis visuals
+- Interactive Tableau filters
 
 ---
 
@@ -176,14 +175,15 @@ Created:
 ## Step 4 — Dashboard Publishing
 - Published dashboard to Tableau Public
 - Published dataset to Kaggle
-- Integrated GitHub project documentation
+- Integrated GitHub documentation
 
 ---
 
 # Live Tableau Dashboard
 
-## Tableau Public Dashboard
-[View Dashboard](PASTE-YOUR-TABLEAU-DASHBOARD-LINK-HERE)
+Explore the interactive Tableau dashboard here:
+
+🔗 [View NGO Operations Dashboard](https://public.tableau.com/app/profile/niyomwungere.clovis/viz/NGOOperationsFundingImpactDashboard/FundingTrend)
 
 ---
 
@@ -191,14 +191,14 @@ Created:
 
 The dataset used in this project is publicly available on Kaggle.
 
-🔗 Kaggle Dataset:  
-[NGO Operations Funding Impact Dataset](https://www.kaggle.com/datasets/niyomwungereclo/ngo-operations-funding-impact-dataset)
+🔗 [NGO Operations Funding Impact Dataset](https://www.kaggle.com/datasets/niyomwungereclo/ngo-operations-funding-impact-dataset)
 
 ---
 
 # GitHub Repository
 
-Repository:  
+Repository:
+
 https://github.com/Clo411/ngo-operations-funding-impact-dashboard
 
 ---
@@ -215,9 +215,11 @@ ngo-operations-funding-impact-dashboard/
 └── README.md
 ```
 
-# Dashboard Screenshots
+---
 
-Add screenshots after publishing.
+# Dashboard Preview
+
+Add dashboard screenshots after uploading them to the repository.
 
 Example:
 
@@ -237,7 +239,7 @@ Example:
 1. Clone or download repository
 2. Open Tableau Public
 3. Connect Excel dataset
-4. Load relational model
+4. Load relational data model
 5. Explore or build dashboard
 6. Publish to Tableau Public
 
@@ -261,13 +263,13 @@ This project demonstrates:
 
 # Future Improvements
 
-Potential enhancements:
+Potential enhancements include:
 
-- Geographic maps
+- Geographic mapping
 - Advanced donor segmentation
 - Predictive funding analysis
 - SQL integration
-- Real-time reporting
+- Real-time NGO reporting
 - Additional dashboard filters
 
 ---
@@ -298,7 +300,7 @@ Results-driven Data Analyst and Tableau Developer experienced in:
 - Operations Analytics
 - Infrastructure Monitoring
 
-Passionate about transforming raw data into actionable insights and interactive dashboards.
+Passionate about transforming raw data into actionable insights and interactive dashboards that support data-driven decision-making.
 
 ---
 
