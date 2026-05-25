@@ -123,7 +123,7 @@ The `Dashboard_Summary` sheet was intentionally kept standalone for KPI visualiz
 
 # Key Performance Indicators (KPIs)
 
-The dashboard includes the following KPIs:
+The dashboard includes:
 
 - Total Funding Received
 - Funding Used
@@ -142,7 +142,7 @@ The dashboard includes the following KPIs:
 The dashboard contains:
 
 - KPI cards
-- Horizontal bar charts
+- Bar charts
 - Funding trend line charts
 - Operational monitoring visuals
 - Comparative program analysis
@@ -174,21 +174,20 @@ Created:
 
 ## Step 4 — Dashboard Publishing
 - Published dashboard to Tableau Public
-- Integrated GitHub project documentation
+- Integrated GitHub documentation
 
 ---
 
 # Live Tableau Dashboard
 
-## Tableau Public Link
-https://public.tableau.com/authoring/NGOOperationsFundingImpactDashboard/Funding_Donor_Tracking/Funding%20Trend#1
-
+## Tableau Public Dashboard
+[View Dashboard](PASTE-YOUR-DASHBOARD-LINK-HERE)
 
 ---
 
 # GitHub Repository
 
-## Repository Link
+Repository:
 https://github.com/Clo411/ngo-operations-funding-impact-dashboard
 
 ---
@@ -203,3 +202,98 @@ ngo-operations-funding-impact-dashboard/
 ├── Tableau Workbook
 ├── Dashboard Screenshots
 └── README.md
+```
+
+# Dashboard Screenshots
+
+Add screenshots after publishing.
+
+Example:
+
+```md
+![Dashboard Preview](dashboard-preview.png)
+```
+
+---
+
+# How to Run the Project
+
+## Requirements
+- Tableau Public
+- Microsoft Excel
+
+## Steps
+1. Clone or download repository
+2. Open Tableau Public
+3. Connect Excel dataset
+4. Load relational model
+5. Explore or build dashboard
+6. Publish to Tableau Public
+
+---
+
+# Skills Demonstrated
+
+This project demonstrates:
+
+- Data Cleaning
+- Data Modeling
+- Tableau Dashboard Development
+- Data Visualization
+- Business Intelligence
+- KPI Reporting
+- Relational Data Structuring
+- GitHub Documentation
+
+---
+
+# Future Improvements
+
+Potential enhancements:
+
+- Geographic maps
+- Advanced donor segmentation
+- Predictive funding analysis
+- SQL integration
+- Real-time reporting
+- Additional dashboard filters
+
+---
+
+# Author
+
+## Niyomwungere Clovis
+
+Data Analyst | Tableau Developer | Business Intelligence Enthusiast
+
+### Contact Information
+- GitHub: https://github.com/Clo411
+- Tableau Public: https://public.tableau.com/app/profile/niyomwungere.clovis
+- Email: cniyogere2018@gmail.com
+- Location: Kigali, Rwanda
+
+---
+
+# About the Author
+
+Results-driven Data Analyst and Tableau Developer experienced in:
+
+- Business Intelligence
+- KPI Dashboard Development
+- Data Visualization
+- Reporting Automation
+- Operations Analytics
+- Infrastructure Monitoring
+
+Passionate about transforming raw data into actionable insights and interactive dashboards.
+
+---
+
+# License
+
+This project is intended for:
+
+- Educational purposes
+- Portfolio demonstration
+- Business intelligence practice
+- Data visualization showcase
