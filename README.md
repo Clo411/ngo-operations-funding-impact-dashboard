@@ -56,7 +56,8 @@ The dashboard was designed to:
 |---|---|
 | Tableau Public | Dashboard development and visualization |
 | Microsoft Excel | Data preparation and storage |
-| GitHub | Project hosting and portfolio management |
+| GitHub | Project hosting and version control |
+| Kaggle | Dataset publishing and portfolio sharing |
 
 ---
 
@@ -174,20 +175,30 @@ Created:
 
 ## Step 4 — Dashboard Publishing
 - Published dashboard to Tableau Public
-- Integrated GitHub documentation
+- Published dataset to Kaggle
+- Integrated GitHub project documentation
 
 ---
 
 # Live Tableau Dashboard
 
 ## Tableau Public Dashboard
-[View Dashboard](PASTE-YOUR-DASHBOARD-LINK-HERE)
+[View Dashboard](PASTE-YOUR-TABLEAU-DASHBOARD-LINK-HERE)
+
+---
+
+# Kaggle Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+🔗 Kaggle Dataset:  
+[NGO Operations Funding Impact Dataset](https://www.kaggle.com/datasets/niyomwungereclo/ngo-operations-funding-impact-dataset)
 
 ---
 
 # GitHub Repository
 
-Repository:
+Repository:  
 https://github.com/Clo411/ngo-operations-funding-impact-dashboard
 
 ---
@@ -244,6 +255,7 @@ This project demonstrates:
 - KPI Reporting
 - Relational Data Structuring
 - GitHub Documentation
+- Public Dataset Publishing
 
 ---
 
@@ -269,6 +281,7 @@ Data Analyst | Tableau Developer | Business Intelligence Enthusiast
 ### Contact Information
 - GitHub: https://github.com/Clo411
 - Tableau Public: https://public.tableau.com/app/profile/niyomwungere.clovis
+- Kaggle: https://www.kaggle.com/niyomwungereclo
 - Email: cniyogere2018@gmail.com
 - Location: Kigali, Rwanda
 
